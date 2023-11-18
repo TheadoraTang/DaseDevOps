@@ -30,4 +30,3 @@ services:
     image: ${{ secrets.ALI_NAMESPACE_URL }}/provider_three:latest
     ports:
       - "8668:8668"
-      
